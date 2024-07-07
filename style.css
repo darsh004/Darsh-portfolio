@@ -173,7 +173,7 @@ section h1{
 .section__pic-container {
   display: flex;
   height: 400px;
-  width: 400px;
+  width: 300px;
   margin: auto 0;
 }
 
@@ -184,6 +184,16 @@ section h1{
 
 .text-container{
     text-align: justify;
+}
+
+.text-containerIntern{
+  margin-top: 30px;
+  padding: 10px;
+  text-align: justify;
+}
+
+.text-containerIntern h3{
+  font-size:35px;
 }
 
 .section__text {
